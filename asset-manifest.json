@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/nocturne/static/css/main.0c7019d5.css",
-    "main.js": "/nocturne/static/js/main.f96c3505.js",
+    "main.js": "/nocturne/static/js/main.ffd7d306.js",
     "static/js/885.3d1bb4fa.chunk.js": "/nocturne/static/js/885.3d1bb4fa.chunk.js",
     "static/js/453.a7f8c83d.chunk.js": "/nocturne/static/js/453.a7f8c83d.chunk.js",
     "static/media/Board.png": "/nocturne/static/media/Board.96aac24f30b3a44b0b0e.png",
     "static/media/diceroll.mp3": "/nocturne/static/media/diceroll.38a0ad7b4a6e12ada02e.mp3",
     "index.html": "/nocturne/index.html",
     "main.0c7019d5.css.map": "/nocturne/static/css/main.0c7019d5.css.map",
-    "main.f96c3505.js.map": "/nocturne/static/js/main.f96c3505.js.map",
+    "main.ffd7d306.js.map": "/nocturne/static/js/main.ffd7d306.js.map",
     "885.3d1bb4fa.chunk.js.map": "/nocturne/static/js/885.3d1bb4fa.chunk.js.map",
     "453.a7f8c83d.chunk.js.map": "/nocturne/static/js/453.a7f8c83d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c7019d5.css",
-    "static/js/main.f96c3505.js"
+    "static/js/main.ffd7d306.js"
   ]
 }
