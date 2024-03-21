@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/nocturne/static/css/main.127e96ea.css",
-    "main.js": "/nocturne/static/js/main.3c41ef8f.js",
+    "main.js": "/nocturne/static/js/main.dc765e22.js",
     "static/js/885.3d1bb4fa.chunk.js": "/nocturne/static/js/885.3d1bb4fa.chunk.js",
     "static/js/453.a7f8c83d.chunk.js": "/nocturne/static/js/453.a7f8c83d.chunk.js",
-    "static/media/board.png": "/nocturne/static/media/board.430e5b4e5b7b72cd6e89.png",
+    "static/media/board.png": "/nocturne/static/media/board.c5a340d477a15649326a.png",
     "static/media/diceroll.mp3": "/nocturne/static/media/diceroll.38a0ad7b4a6e12ada02e.mp3",
     "index.html": "/nocturne/index.html",
     "main.127e96ea.css.map": "/nocturne/static/css/main.127e96ea.css.map",
-    "main.3c41ef8f.js.map": "/nocturne/static/js/main.3c41ef8f.js.map",
+    "main.dc765e22.js.map": "/nocturne/static/js/main.dc765e22.js.map",
     "885.3d1bb4fa.chunk.js.map": "/nocturne/static/js/885.3d1bb4fa.chunk.js.map",
     "453.a7f8c83d.chunk.js.map": "/nocturne/static/js/453.a7f8c83d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.127e96ea.css",
-    "static/js/main.3c41ef8f.js"
+    "static/js/main.dc765e22.js"
   ]
 }
