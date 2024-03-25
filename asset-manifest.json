@@ -1,20 +1,38 @@
 {
   "files": {
-    "main.css": "/nocturne/static/css/main.5e23079c.css",
-    "main.js": "/nocturne/static/js/main.7e58e369.js",
+    "main.css": "/nocturne/static/css/main.3ce76b10.css",
+    "main.js": "/nocturne/static/js/main.ded7e976.js",
     "static/js/885.3d1bb4fa.chunk.js": "/nocturne/static/js/885.3d1bb4fa.chunk.js",
     "static/js/453.a7f8c83d.chunk.js": "/nocturne/static/js/453.a7f8c83d.chunk.js",
     "static/media/board.png": "/nocturne/static/media/board.ab540db1f6a022473b14.png",
+    "static/media/dracBack.png": "/nocturne/static/media/dracBack.b8f528d2aa50da1a22d5.png",
+    "static/media/drac6.png": "/nocturne/static/media/drac6.308165b37b328853a881.png",
+    "static/media/drac11.png": "/nocturne/static/media/drac11.538805aecd55dcd3ba55.png",
+    "static/media/drac7.png": "/nocturne/static/media/drac7.02a7d8de3de00bc14f14.png",
+    "static/media/drac10.png": "/nocturne/static/media/drac10.07d3dfd7a310ee09845a.png",
+    "static/media/drac15.png": "/nocturne/static/media/drac15.d41a93ae76165cc304f0.png",
+    "static/media/drac13.png": "/nocturne/static/media/drac13.75ad5eb79c40ecdb7c29.png",
+    "static/media/drac1.png": "/nocturne/static/media/drac1.52a4a4e861c40054bf3c.png",
+    "static/media/drac14.png": "/nocturne/static/media/drac14.39778394f2600d758f96.png",
+    "static/media/drac16.png": "/nocturne/static/media/drac16.ec7f79ccc8cd97d71486.png",
+    "static/media/drac9.png": "/nocturne/static/media/drac9.9e23261822133fc10e24.png",
+    "static/media/drac12.png": "/nocturne/static/media/drac12.4b2546659d1580d7af23.png",
+    "static/media/drac2.png": "/nocturne/static/media/drac2.0bd5bd17848699310485.png",
+    "static/media/drac4.png": "/nocturne/static/media/drac4.9023e9500a8acc4241d7.png",
+    "static/media/drac3.png": "/nocturne/static/media/drac3.8b3527587a5db40f7fcc.png",
+    "static/media/drac8.png": "/nocturne/static/media/drac8.6f3a7f4b625d866daacb.png",
+    "static/media/drac5.png": "/nocturne/static/media/drac5.f808876ccded6561f36e.png",
     "static/media/diceroll.mp3": "/nocturne/static/media/diceroll.38a0ad7b4a6e12ada02e.mp3",
+    "static/media/cardFlip.mp3": "/nocturne/static/media/cardFlip.c45d9c5fc804dc7a8e75.mp3",
     "static/media/move.mp3": "/nocturne/static/media/move.f4280e96965e14433c3b.mp3",
     "index.html": "/nocturne/index.html",
-    "main.5e23079c.css.map": "/nocturne/static/css/main.5e23079c.css.map",
-    "main.7e58e369.js.map": "/nocturne/static/js/main.7e58e369.js.map",
+    "main.3ce76b10.css.map": "/nocturne/static/css/main.3ce76b10.css.map",
+    "main.ded7e976.js.map": "/nocturne/static/js/main.ded7e976.js.map",
     "885.3d1bb4fa.chunk.js.map": "/nocturne/static/js/885.3d1bb4fa.chunk.js.map",
     "453.a7f8c83d.chunk.js.map": "/nocturne/static/js/453.a7f8c83d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e23079c.css",
-    "static/js/main.7e58e369.js"
+    "static/css/main.3ce76b10.css",
+    "static/js/main.ded7e976.js"
   ]
 }
