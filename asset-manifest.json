@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nocturne/static/css/main.fcded70f.css",
-    "main.js": "/nocturne/static/js/main.02e4cfa4.js",
+    "main.js": "/nocturne/static/js/main.bc5ea681.js",
     "static/js/885.3d1bb4fa.chunk.js": "/nocturne/static/js/885.3d1bb4fa.chunk.js",
     "static/js/453.a7f8c83d.chunk.js": "/nocturne/static/js/453.a7f8c83d.chunk.js",
     "static/media/board.png": "/nocturne/static/media/board.ab540db1f6a022473b14.png",
@@ -17,6 +17,7 @@
     "static/media/drac16.png": "/nocturne/static/media/drac16.ec7f79ccc8cd97d71486.png",
     "static/media/drac9.png": "/nocturne/static/media/drac9.9e23261822133fc10e24.png",
     "static/media/drac12.png": "/nocturne/static/media/drac12.4b2546659d1580d7af23.png",
+    "static/media/gameOver.mp3": "/nocturne/static/media/gameOver.130461251654833be13c.mp3",
     "static/media/drac2.png": "/nocturne/static/media/drac2.0bd5bd17848699310485.png",
     "static/media/drac4.png": "/nocturne/static/media/drac4.9023e9500a8acc4241d7.png",
     "static/media/drac3.png": "/nocturne/static/media/drac3.8b3527587a5db40f7fcc.png",
@@ -27,12 +28,12 @@
     "static/media/move.mp3": "/nocturne/static/media/move.f4280e96965e14433c3b.mp3",
     "index.html": "/nocturne/index.html",
     "main.fcded70f.css.map": "/nocturne/static/css/main.fcded70f.css.map",
-    "main.02e4cfa4.js.map": "/nocturne/static/js/main.02e4cfa4.js.map",
+    "main.bc5ea681.js.map": "/nocturne/static/js/main.bc5ea681.js.map",
     "885.3d1bb4fa.chunk.js.map": "/nocturne/static/js/885.3d1bb4fa.chunk.js.map",
     "453.a7f8c83d.chunk.js.map": "/nocturne/static/js/453.a7f8c83d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fcded70f.css",
-    "static/js/main.02e4cfa4.js"
+    "static/js/main.bc5ea681.js"
   ]
 }
