@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nocturne/static/css/main.fcded70f.css",
-    "main.js": "/nocturne/static/js/main.919c4237.js",
+    "main.css": "/nocturne/static/css/main.4d725b7d.css",
+    "main.js": "/nocturne/static/js/main.b4313824.js",
     "static/js/885.3d1bb4fa.chunk.js": "/nocturne/static/js/885.3d1bb4fa.chunk.js",
     "static/js/453.a7f8c83d.chunk.js": "/nocturne/static/js/453.a7f8c83d.chunk.js",
     "static/media/board.png": "/nocturne/static/media/board.ab540db1f6a022473b14.png",
@@ -13,6 +13,7 @@
     "static/media/drac15.png": "/nocturne/static/media/drac15.d41a93ae76165cc304f0.png",
     "static/media/drac13.png": "/nocturne/static/media/drac13.75ad5eb79c40ecdb7c29.png",
     "static/media/drac1.png": "/nocturne/static/media/drac1.52a4a4e861c40054bf3c.png",
+    "static/media/wp1.png": "/nocturne/static/media/wp1.5ad55eb0f84e42c6c37a.png",
     "static/media/drac14.png": "/nocturne/static/media/drac14.39778394f2600d758f96.png",
     "static/media/drac16.png": "/nocturne/static/media/drac16.ec7f79ccc8cd97d71486.png",
     "static/media/drac9.png": "/nocturne/static/media/drac9.9e23261822133fc10e24.png",
@@ -27,13 +28,13 @@
     "static/media/cardFlip.mp3": "/nocturne/static/media/cardFlip.c45d9c5fc804dc7a8e75.mp3",
     "static/media/move.mp3": "/nocturne/static/media/move.f4280e96965e14433c3b.mp3",
     "index.html": "/nocturne/index.html",
-    "main.fcded70f.css.map": "/nocturne/static/css/main.fcded70f.css.map",
-    "main.919c4237.js.map": "/nocturne/static/js/main.919c4237.js.map",
+    "main.4d725b7d.css.map": "/nocturne/static/css/main.4d725b7d.css.map",
+    "main.b4313824.js.map": "/nocturne/static/js/main.b4313824.js.map",
     "885.3d1bb4fa.chunk.js.map": "/nocturne/static/js/885.3d1bb4fa.chunk.js.map",
     "453.a7f8c83d.chunk.js.map": "/nocturne/static/js/453.a7f8c83d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcded70f.css",
-    "static/js/main.919c4237.js"
+    "static/css/main.4d725b7d.css",
+    "static/js/main.b4313824.js"
   ]
 }
